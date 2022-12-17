@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  
+}
+
+.static  table{
+
+  border: 1px solid;
+  margin-left: auto;  
+  margin-right: auto; 
+  margin-top: 100px; 
+  border-color:rgb(27, 24, 24);
+  border-collapse: collapse;    
+  width: 300px;  
+  text-align:Center; 
+  font-size: 20px; 
+  height: 200px;
+  align-content: center;
+}
+
+.sample{
+  width: 10%;
+  padding-left: 300px;
+  padding-top: 50px;
+  appearance: none;
+}
+
+
